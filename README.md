@@ -28,8 +28,8 @@
 
 # Sobre
 
-Com objetivo de estudo e entendimento das funcionalidades, foi desenvolvido um **Health Panel** aplicando o uso de grid e um span de imágens.
-O interessantes desse processo é que a imágem é utilizada por inteira e cada bloco contempla uma parte dela. Basicamente a impressão que temos é de que a imagem foi utilizada por inteira e os blocos criados por cima dela.
+Com objetivo de estudo e entendimento das funcionalidades, foi desenvolvido um **Health Panel** aplicando o uso de grid e um span de imagens.
+O interessantes desse processo é que a imagens é utilizada por inteira e cada bloco contempla uma parte dela. Basicamente a impressão que temos é de que a imagem foi utilizada por inteira e os blocos criados por cima dela.
 Para deixar o processo ainda mais interessante, foram utilizados duas imagens.
 
 <h1 align="center">
@@ -44,7 +44,7 @@ Para criar a grid, utilizados o display grid com um template de 4 colunas.
 display: grid;
 grid-template-columns: repeat(4, 1fr);
 ```
-Para adicionar a imágem de fundo de forma que tenhamos o efeito de uma imagem inteira com os blocos por cima e não uma imágem por bloco, devemos utilizar a opção `brackground-attachment: fixed`. Dessa forma teremos o mesmo efeito que encontramos nesse projeto.
+Para adicionar a imagens de fundo de forma que tenhamos o efeito de uma imagem inteira com os blocos por cima e não uma imagens por bloco, devemos utilizar a opção `brackground-attachment: fixed`. Dessa forma teremos o mesmo efeito que encontramos nesse projeto.
 
 
 ``` css

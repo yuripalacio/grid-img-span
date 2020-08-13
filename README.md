@@ -1,5 +1,5 @@
 <h1 align="center">
-    Estudo - CSS Grid Layout Image Span
+    CSS Grid Layout Image Span
 </h1>
 
 <p align="center">	

@@ -40,14 +40,14 @@ Para deixar o processo ainda mais interessante, foram utilizados duas imagens.
 
 Para criar a grid, utilizados o display grid com um template de 4 colunas.
 
-``` css 
+```css
 display: grid;
 grid-template-columns: repeat(4, 1fr);
 ```
+
 Para adicionar a imagens de fundo de forma que tenhamos o efeito de uma imagem inteira com os blocos por cima e não uma imagens por bloco, devemos utilizar a opção `brackground-attachment: fixed`. Dessa forma teremos o mesmo efeito que encontramos nesse projeto.
 
-
-``` css
+```css
 /* Definimos as duas imágens de fundo */
 .bg1 {
   background: url("./img/bg1.jpg");
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=-qOe8lBAChE&t=103s
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gorestaurant/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/yuripalacio/grid-img-span/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 <hr />
 

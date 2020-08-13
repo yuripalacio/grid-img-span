@@ -9,7 +9,7 @@
     <img alt="Made by yuripalacio" src="https://img.shields.io/badge/made%20by-Yuri%20Palacio-%2304D361">
   </a>
   
-  <a href="https://github.com/yuripalacio/mychat/commits/master">
+  <a href="https://github.com/yuripalacio/grid-img-span/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yuripalacio/grid-img-span">
   </a>
   
